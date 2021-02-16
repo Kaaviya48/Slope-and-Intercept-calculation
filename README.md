@@ -1,1 +1,0 @@
-# Slope-and-Intercept-calculation
